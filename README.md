@@ -103,14 +103,12 @@ We believe in collaboration and community. To join us as a contributor:
 ### ⭐ **Support Us**
 Love what we’re doing? Give us a star 🌟 and help spread the word! The more support we get, the more opportunities we can create for developers like you.
 
-[![GitHub followers](https://img.shields.io/github/followers/yourrepo?style=social)](https://github.com/yourrepo/eltern)
+[![GitHub followers](https://img.shields.io/github/followers/henelngata?style=social)](https://github.com/henelngata/eltern)
 
 ---
 
 ### 🚀 **Connect with Us**
-- Follow us on [GitHub](https://github.com/yourrepo/eltern) to stay updated with new projects.
+- Follow us on [GitHub](https://github.com/henelngata/eltern) to stay updated with new projects.
 - Get in touch: [contact@eltern.com](mailto:contact@eltern.com)
 
 ---
-
-Feel free to adjust or personalize any part of this **README**! Once this is in place on your GitHub repo, it can serve as the official "landing page" for **Eltern**. You could also later expand it into a full-fledged site. Let me know if you’d like to add anything else!
